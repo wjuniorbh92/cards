@@ -21,7 +21,7 @@ defmodule Cards do
 
   @doc """
     Determines whether a deck contains a given card
-    
+
   ## Examples
 
       iex> deck = Cards.create_deck
